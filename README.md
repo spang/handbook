@@ -23,4 +23,4 @@
 ## Processes and Practices
 - [Vocabulary](https://github.com/nylas/handbook/blob/master/Processes%20and%20Practices/Vocabulary.md)
 - [Recurring Meetings](https://github.com/nylas/handbook/blob/master/Processes%20and%20Practices/Recurring%20Meetings.md)
-- [Remote Work](https://github.com/nylas/handbook/blob/master/Processes%20and%20Policies/Remote%20Work.md)
+- [Remote Work](https://github.com/nylas/handbook/blob/master/Processes%20and%20Practices/Remote%20Work.md)
