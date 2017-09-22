@@ -1,6 +1,6 @@
 # Mission Statement
 
-Our mission is to build the kind of organization that allows us to make the world more like the world in which we want to live.
+Our mission is to build the kind of organization that allows us to make the world more like [the world in which we want to live](https://github.com/nylas/handbook/blob/master/Introduction/Values.md).
 
 To do that, we need to grow. To grow, we need to:
 
