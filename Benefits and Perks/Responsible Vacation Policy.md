@@ -11,3 +11,17 @@ We all work hard, and we recognize that! In order to give our best and live a we
 - You continue to have full Nylas benefits through vacation periods, and your equity will continue to vest to the fullest extent permitted by governing plans and agreements.
 - Time off due to short-term and long-term illness and/or injury or leaves of absence, such as those covered under our caregiver policy or sick day program, are handled separately. Vacation under this policy cannot be used for those types of absences or any other leave. Please refer to the specific policies in this handbook or contact HR if you have questions about them.
 - Vacation under this policy is intended to build trust, one of our core values, in working relationships. Nylas expects that employees will use good judgment, take time off in appropriate amounts, and coordinate with their managers in advance, while completing their workloads. If an employee’s performance declines due to abuse of this policy, Nylas reserves the right to review the employee’s use of this policy and determine if discipline or termination is appropriate.
+
+## Company Holidays
+
+- New Year (1/1)
+- Martin Luther King, Jr. Day (Third Monday of January)
+- George Washington’s Birthday (Third Monday of February)
+- Memorial Day (Last Monday of May)
+- Day Before Independence Day (7/3)
+- Independence Day (7/4)
+- Labor Day (First Monday of September)
+- Veteran’s Day (11/11)
+- Thanksgiving (Fourth Thursday of November)
+- Friday After Thanksgiving (Fourth Friday of November)
+- Christmas (12/25)
