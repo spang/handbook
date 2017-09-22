@@ -20,6 +20,8 @@ Welcome to Nylas! Here’s a list of useful terms we use within the company. �
 - **Branch**—a copy of the codebase. It usually contains a person’s changes (a feature, a bug fix, etc.). There are many branches on each project, but the primary branch is “master”—the working codebase from which everyone else creates new branches and later merges in their changes. There’s also the “production” branch, which contains the code that gets deployed to our users.
 - **cloud-core**—our main repo (or project) for our code. It includes the code for the API, the sync engine, the dashboard, and more.
 - **cURL**—a method of making HTTP requests to access our APIs.
+- **Developer Experience (Dev Ex)**—the experience for external developers of building on the Nylas APIs, including the Dashboard, docs, SDKs, and other developer support materials.
+- **Developer Happiness**—the experience for internal Nylas developers building on the Nylas codebase, including the CLI, test coverage, documentation, and other infrastructure.
 - **Diff**—a differential, or the changes between the current codebase that everyone shares and the code that someone has written. We “submit” diffs to others to review our code, and then we “land” them onto the primary codebase, which makes our changes available to everyone else.
 - **Embiggen**—to make bigger
 - **Endpoint**—a URL where a service can be accessed. For instance, our `/messages` endpoint for the Nylas API can be accessed at https://api.nylas.com/messages.
