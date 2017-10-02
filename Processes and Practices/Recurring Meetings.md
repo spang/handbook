@@ -1,4 +1,5 @@
 # Recurring Meetings
+All times PT unless noted otherwise
 
 ## Whole Company
 
@@ -8,7 +9,7 @@ Everyone gathers. One person from each department verbally presents the high-lev
 #### Daily Standup Summaries (Weekly, Tuesday through Friday, 10:00 to 10:15 a.m.)
 One person from each department posts to the Slack #standup channel a high-level summary of what that department is doing for the day.
 
-#### TGIF (Weekly, Friday, 4:00 to 5:00 p.m.)
+#### All Hands (Weekly, Friday, 2:00 to 3:00 p.m.)
 Each department gives a more detailed overview of this week’s activities.
 
 #### Retrospectives (Monthly)
