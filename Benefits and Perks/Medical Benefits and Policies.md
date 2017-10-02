@@ -8,7 +8,7 @@ Nylas provides competitive medical, vision, and dental benefits for all full-tim
 
 **Health Savings Accounts (HSA)** allows eligible employees to be reimbursed for qualified medical expenses. Contributions are pre-tax and lower the total amount of tax paid by you. Nylas plans are set up and facilitated by Avidia Bank and remaining balances are generally carried over to the next year.
 
-**Flexible Spending Accounts (FSA)** allows eligible employees to be reimbursed for qualified medical expenses. Contributions are pre-tax and lower the total amount of tax paid by you. Remaining balances are not carried over in next year.
+**Flexible Spending Accounts (FSA)** allows eligible employees to be reimbursed for qualified medical expenses. Contributions are pre-tax and lower the total amount of tax paid by you. Remaining balances are not carried over to the next year.
 
 Compared with HSA, FSA has lower annual maximum contribution limits. Also, the funds are part of a “use it or lose it” plan, meaning that what is left over at the end of the year is not returned to you.
 
