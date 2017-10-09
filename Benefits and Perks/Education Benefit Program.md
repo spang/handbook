@@ -8,6 +8,7 @@ We strongly encourage employees to pursue additional formal education to enhance
 - Each employee has $1,000 to be used annually on classes, conferences, travel, and books to benefit career growth while at Nylas.
 - The minimum eligibility is six months of company service.
 - An employment year is based on the employee’s anniversary.
+- Books purchased for participation in company-sponsored book clubs do not count against the $1,000 limit.
 
 ## Example Use Cases
 
