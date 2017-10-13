@@ -1,5 +1,10 @@
 # Values
 
+## Customers
+- We exist as a company because we create value for our customers.
+- Your work builds toward making Nylas the communications layer for business.
+- Our customers guide our product.
+
 ## Empowerment and Trust
 
 - Leadership sets goals, but you have the power to achieve those goals in the best way you see fit.
@@ -30,11 +35,6 @@
 - We set reasonable timelines for projects that allow for them to be completed within normal work hours—we do not expect to have your time outside of that (except in specific outlined cases like on-call).
 - You have PTO that is mandated and respected.
 - We have explicit and documented policies around family leave, parental leave, bereavement leave, etc.
-
-## Customers
-- We exist as a company because we create value for our customers.
-- Your work builds toward making Nylas the communications layer for business.
-- Our customers guide our product.
 
 ## Design
 - We are proud of our brand and the impressions, first and last, it leaves.
