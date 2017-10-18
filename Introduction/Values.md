@@ -1,9 +1,10 @@
 # Values
 
 ## Customers
-- We exist as a company because we create value for our customers.
-- Your work builds toward making Nylas the communications layer for business.
+- Our company exists to create value for our customers.
 - Our customers guide our product.
+- We see our customers as humans - developers, product managers, CTOs and CEOs - not corporations.
+
 
 ## Empowerment and Trust
 
