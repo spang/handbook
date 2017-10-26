@@ -25,4 +25,4 @@ We all work hard, and we recognize that! In order to give our best and live a we
 - Friday After Thanksgiving (Fourth Friday of November)
 - Christmas (12/25)
 
-If a holiday falls on a weekend, HR will announce when the holiday is observed.  If a holiday falls on a Tuesday or Thursday, HR will generally implement a four-day weekend since we know that everyone's gonna take off that gap day anyway.
+If a holiday falls on a weekend, the weekday before or after the holiday is generally observed.  If a holiday falls on a Tuesday or Thursday, our offices may be closed for the day in between the holiday and the weekend. Each team should decide what needs to be accomplished during these holidays to ensure customers needs are met.
