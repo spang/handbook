@@ -14,11 +14,10 @@ We all work hard, and we recognize that! In order to give our best and live a we
 
 ## Company Holidays
 
-- New Year (1/1)
+- New Year's Day (1/1)
 - Martin Luther King, Jr. Day (Third Monday of January)
 - George Washington’s Birthday (Third Monday of February)
 - Memorial Day (Last Monday of May)
-- Day Before Independence Day (7/3)
 - Independence Day (7/4)
 - Labor Day (First Monday of September)
 - Veteran’s Day (11/11)
