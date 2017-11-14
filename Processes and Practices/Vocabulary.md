@@ -5,6 +5,7 @@ Welcome to Nylas! Here’s a list of useful terms we use within the company. �
 ## General
 - **LOL**—a Spang-ism that denotes amusement.
 - **Grok**—to understand profoundly and intuitively (https://en.wikipedia.org/wiki/Grok).
+- **IIRC**-if I recall correctly.
 - **Modulo**—remainder; what’s left or left to do.
 - **OOO**—out of office.
 - **PTO**—paid time off.
