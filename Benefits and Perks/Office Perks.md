@@ -10,7 +10,7 @@ Nylas offers reimbursements on gym memberships up to $70 a month (a maximum paid
 
 ## In-Office Massages
 
-Every other Wednesday, Nylas has a full-day massage therapist in the office. Feel free to make your appointment through [Infinity Massage](https://my.infinitemassage.com/login.php).
+Every other Wednesday, Nylas has a full-day massage therapist in the office. Feel free to make your appointment through [Zeel](https://www.zeel.com/massage-on-demand/chair/start/nylas25).
 
 ## Lyft Credit
 
