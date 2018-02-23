@@ -3,6 +3,7 @@
 ## Introduction
 - [Mission](https://github.com/nylas/handbook/blob/master/Introduction/Mission.md)
 - [Values](https://github.com/nylas/handbook/blob/master/Introduction/Values.md)
+- [Goals](https://github.com/nylas/handbook/blob/master/Introduction/Goals.md)
 
 ## Employment Policies
 - [At-Will Employment](https://github.com/nylas/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
