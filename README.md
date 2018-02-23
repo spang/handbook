@@ -1,7 +1,7 @@
 # The Nylas Handbook
 
 ## Introduction
-- [Mission Statement](https://github.com/nylas/handbook/blob/master/Introduction/Mission%20Statement.md)
+- [Mission](https://github.com/nylas/handbook/blob/master/Introduction/Mission.md)
 - [Values](https://github.com/nylas/handbook/blob/master/Introduction/Values.md)
 
 ## Employment Policies
