@@ -2,6 +2,8 @@
 
 There are varying levels of “remoteness” that should be treated with increasing levels of care. In general, the more remote you are, the more preparation, forewarning, and effort should be put into it.
 
+Be sure to read our internal guide: [The Art of Working Remotely](https://paper.dropbox.com/doc/The-Art-of-Working-Remotely-70JM1GB49MlgSXsAUejPO])
+
 - Occasional home or coffee shop work:
   - Does not require manager approval.
   - Notify the team on Slack, ideally day-before or at the latest early morning, where you’ll be and when.
