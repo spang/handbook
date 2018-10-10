@@ -8,4 +8,4 @@ We do not tolerate harassment of community members in any form. Harassment inclu
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Offensive jokes are not appropriate and will not be tolerated under any circumstance.
 
-Participants asked to stop any harassing behavior are expected to comply immediately. Community members violating these rules may be sanctioned or removed from community spaces. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Spang, Margaret, Gleb, or Sachin immediately.
+Participants asked to stop any harassing behavior are expected to comply immediately. Community members violating these rules may be sanctioned or removed from community spaces. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Spang, Margaret, or Gleb immediately.
