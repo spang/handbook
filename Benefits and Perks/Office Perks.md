@@ -2,19 +2,15 @@
 
 ## Meals
 
-Foodies welcome! We offer lunch five days a week, and dinner can be expensed for anyone who wants to work at the office past 6 p.m. Let Margaret know if you have dietary restrictions.
+Foodies welcome! We offer lunch five days a week via Forkable, which will let you pick your own meal each day with a budget of $15, and dinner can be expensed for anyone who wants to work at the office past 6 p.m. Please help us use our resources wisely and cancel your lunch delivery if you're not going to be in the office.
 
 ## Gym Membership
 
-Nylas offers reimbursements on gym memberships up to $70 a month (a maximum paid monthly that does not roll over). Fitness SF is conveniently located a few blocks from the office. Another nearby favorite for our climbers is Mission Cliffs. Please contact Margaret for reimbursement or if you need helping finding a gym.
+Nylas offers reimbursements on gym memberships up to $70 a month (a maximum paid monthly that does not roll over). If you're in SF, you can join the Nylas account at Fitness SF (located a few blocks from the office) or Touchstone Climbing (several locations in the Bay Area, including Mission Cliffs and Dogpatch Boulders), or for any other gym we can set up a recurring reimbursement. Please contact Margaret for reimbursement or if you'd like help finding a gym.
 
-## In-Office Massages
+## Rideshare Credit
 
-Every other Wednesday, Nylas has a full-day massage therapist in the office. Feel free to make your appointment through [Zeel](https://www.zeel.com/massage-on-demand/chair/start/nylas25).
-
-## Lyft Credit
-
-Nylas offers a $100 Lyft credit each month to get you to and from the office. Just log into the Lyft app with your @nylas.com email address. This credit is a maximum paid monthly and does not roll over.
+Nylas offers a $100 rideshare credit each month to get you to and from the office. We are currently using Uber as we've found their business integration to be the most reliable. You'll receive an email at your work email when you start detailing how to connect your account. This credit is a maximum paid monthly and does not roll over.
 
 ## Commuter Benefits
 
