@@ -6,7 +6,7 @@ If a company creates great products but churns through the people who make them,
 
 We believe in inclusivity and strive to make our company a leading example of a better, more human tech company. We reject racism, sexism, and homophobia. We want people who couldn’t be successful elsewhere because they don’t look or sound like what society expects successful people to look like to work here and to be given the chance they deserve.
 
-We want to be a voice in the world that says that people are able to do their best work when they’re able to bring their whole selves to work and to feel safe being as they are.
+We want to be a voice in the world that says that people are able to do their best work when they’re able to bring their authentic selves to work and to feel safe being as they are.
 
 **The values we live by are:**
 
