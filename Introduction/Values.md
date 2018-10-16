@@ -18,7 +18,6 @@ We want to be a voice in the world that says that people are able to do their be
 ## Bias for Action
 - We acknowledge that many decisions are reversible, and it's often better to make a decision and run with it than to wait for perfect information.
 - When faced with conflicting options, we delegate a decision maker and commit to doing our best to make the decision successful even if we disagree with it.
-- Sometimes it's OK to break the rules if it gets the job done.
 
 ## Developer Centric
 - We believe that software provides incredible leverage for impact.
