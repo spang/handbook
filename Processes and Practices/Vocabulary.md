@@ -38,6 +38,8 @@ Welcome to Nylas! Here’s a list of useful terms we use within the company. �
 - **Shipping**—releasing a feature or a bug fix to our customers.
 - **Sprint**—a unit of time for which engineering work is allocated. Usually one or two weeks.
 - **SQL**—the language used to operate on databases.
+- **incident / outage**—A degredation of service that violates our promises to our customers
+- **SLA**—"Service Level Agreement"—a contractual agreement made between us and our customers on what level of service we guarantee, e.g. 99.9% API success rate
 
 ## Marketing
 - **CMS**—content management system, or software that typically hosts a blog or a website (i.e., Hubspot, WordPress, Drupal).
