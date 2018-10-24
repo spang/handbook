@@ -9,7 +9,7 @@ Be sure to read our internal guide: [The Art of Working Remotely](https://paper.
   - Notify your team on Slack, ideally day-before or at the latest early morning, where you’ll be and when.
   - There’s no explicit cap on the number of times you can do it—it’s your responsibility to coordinate with your team and proactively watch out for how this is affecting them.
 - Occasional remote trips within 3 timezones. 2-4 days:
-  - Requires require manager approval.
+  - Requires manager approval.
   - Notify your team at least several days before you leave. Ideally once when a trip is booked and again the day or two before. Explicitly make sure people on your team know.
   - Research ahead of time to know that you’ll have stable wifi, a place to sit, and a reasonable noise level.
   - Block out the overall time as a multi-day event so people can see overall when you’re out
