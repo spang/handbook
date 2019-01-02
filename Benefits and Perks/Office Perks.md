@@ -8,7 +8,7 @@ Employees based out of the Nylas New York Office will receive a $15 a day stipen
 
 ## Gym Membership
 
-Nylas offers reimbursements on gym memberships up to $70 a month (a maximum paid monthly that does not roll over). If you're in SF, you can join the Nylas account at Fitness SF (located a few blocks from the office) or Touchstone Climbing (several locations in the Bay Area, including Mission Cliffs and Dogpatch Boulders), or for any other gym we can set up a recurring reimbursement. Please contact Margaret for reimbursement or if you'd like help finding a gym.
+Nylas offers reimbursements on gym memberships up to $70 a month (a maximum paid monthly that does not roll over). If you're in SF, you can join the Nylas account at Fitness SF (located a few blocks from the office) or Touchstone Climbing (several locations in the Bay Area, including Mission Cliffs and Dogpatch Boulders), or for any other gym we can set up a recurring reimbursement. Please contact accounting@nylas.com for reimbursement or if you'd like help finding a gym.
 
 ## Rideshare Credit
 
