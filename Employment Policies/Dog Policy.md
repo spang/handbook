@@ -10,6 +10,6 @@ At Nylas, we support dog-friendly office days on Tuesdays and Thursdays assuming
   6. Employees are financially responsible for any damage or cleaning due to their dog’s actions, this includes damage from accidents, excessive pet hair and odor removal. Owners of the dog must maintain adequate liability insurance.  Nylas assumes no responsibility for any pet.
   7. Pet zones: Dogs are allowed only downstairs in the Nylas office in an effort to allow for uninterrupted work upstairs.
   8. No more than 2-3 dogs should be in the office at any time. It is up to the dog owners to communicate with each other about when they plan to bring their pets in. If three dogs are already in the office and a fourth arrives after, we will ask someone to take their dog home.
-  9. If anyone with a dog allergy joins the team, dogs will no longer bring be permitted in the office.
+  9. If anyone with a dog allergy joins the team, dogs will no longer be permitted in the office.
 
 This policy does not apply to “Assistive Animals.” An “Assistive Animal” is defined as any animal that is individually trained to do work or perform tasks for the benefit of an individual with a disability, including a physical, sensory, psychiatric, intellectual, or other mental disability or any individually trained animal otherwise necessary as a reasonable accommodation for a person with a disability.  If you have concerns with a dog but are unsure whether or not the dog is an “Assistive Animal,” please reach out to Human Resources first.
