@@ -49,13 +49,13 @@ We want to be a voice in the world that says that people are able to do their be
 - You value other people's time. Context-switching is expensive, and each distraction hurts the company, so don't take them lightly.
 
 ## Work-Life Balance
+
 - You are recognized and valued as an individual with a life outside of work.
 - We set reasonable timelines for projects that allow for them to be completed within normal work hours—we do not expect to have your time outside of that (except in specific outlined cases like on-call).
 - You have PTO that is mandated and respected.
 - We have explicit and documented policies around family leave, parental leave, bereavement leave, etc.
 
-## Design
-- We are proud of our brand and the impressions, first and last, it leaves.
-- We take pride in the details, polish, and craft of our work and image.
-- We are human-centered. We work more for the needs of people over the targets of metrics.
-- Your feedback matters and is part of our design process.
+## Quality
+
+- We are committed to delivering high-quality experiences across all customer touch-points - from marketing to product and from sales to support.
+- We strive to create experiences that are unique, consistent, admired, memorable, and advocated for by our customers.
