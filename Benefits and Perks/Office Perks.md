@@ -12,7 +12,7 @@ Nylas offers reimbursements on gym memberships up to $70 a month (a maximum paid
 
 ## Rideshare Credit
 
-Nylas offers a $100 rideshare credit each month for personal use. We are currently using Uber as we've found their business integration to be the most reliable. You'll receive an email at your work email when you start detailing how to connect your account. This credit is a maximum paid monthly and does not roll over.
+Nylas offers a $100 rideshare credit each month. We are currently using Uber as we've found their business integration to be the most reliable. You'll receive an email at your work email when you start detailing how to connect your account. This credit is a maximum paid monthly and does not roll over.
 
 ## Commuter Benefits
 
