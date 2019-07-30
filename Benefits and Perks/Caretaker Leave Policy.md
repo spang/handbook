@@ -1,6 +1,6 @@
 # Caretaker Leave Policy
 
-- Nylas offers a 100% paid caretaker/parental leave policy of up to 16 weeks per year (as measured backwards, on a rolling basis, from the date of the leave commences) for employees and absences that meet the requirements set forth in this policy.
+- Nylas offers a 100% paid caretaker/parental leave policy of up to 12 weeks per year (as measured backwards, on a rolling basis, from the date of the leave commences) for employees and absences that meet the requirements set forth in this policy.
 - Leave may be taken for:
   - the birth, adoption, or foster placement of a child
   - caring for an employee's spouse, domestic partner, child or parent with a serious health condition
@@ -26,20 +26,11 @@
 - Nylas covers Week 1 @ 100% of salary during waiting period
 - If approved, CA PFL covers @ (up to) 55% of salary and Nylas covers @ 45% (plus any shortfall) of salary for Weeks 2-4
 
-#### Pregnancy disability/bonding leave for 16 weeks
-- An employee is pregnant and requests leave of 16 weeks in connection with birth and bonding with the baby
+#### Pregnancy disability/bonding leave for 12 weeks
+- An employee is pregnant and requests leave of 12 weeks in connection with birth and bonding with the baby
 - Medical certification supports leave starting four weeks before due date
 - SDI benefits apply to pregnancy disability; PFL benefits to baby bonding
 - Nylas covers Week 1 A 100% during waiting period
-- CA SDI covers @ (up to) 55% and Nylas covers @ 45% (plus any shortfall) for Weeks 2-4 pre birth
-- CA SDI covers @ (up to) 55% and Nylas covers @ 45% (plus any shortfall) for Weeks 1-6 post birth
-- CA PFL covers @ (up to) 55% and Nylas covers @ 45% (plus any shortfall) for Weeks 7-12 post birth
-
-#### Parental leave for 16 weeks
-- An employee’s partner gives birth or employee adopts a child and employee requests leave of 16 weeks to bond with the child
-- The employee provides medical certification of anticipated birth or documentation showing adoption, as applicable
-- Nylas covers Week 1 @ 100% of salary during waiting period
-- CA PFL covers @ (up to) 55% and Nylas covers @ 45% (plus any shortfall) for Weeks 2-7 post birth/adoption
-- Nylas covers @ 100% for Weeks 8 - 16
+- If approved, your state leave program covers a certain percentage of your salary, and Nylas covers the remaining portion (plus any shortfall) of salary for Weeks 2-12
 
 All of the above are example scenarios given real-world situations and assume that the requesting employee meets eligibility requirements, including applying and qualifying for state wage substitution benefits. If any complications or unplanned scenarios arise, the Head of HR has discretion about policy changes/approvals/exceptions/etc.
