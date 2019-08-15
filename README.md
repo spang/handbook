@@ -1,9 +1,9 @@
 # The Nylas Handbook
 
 ## Introduction
-- [Mission](https://github.com/nylas/handbook/blob/master/Introduction/Mission.md)
+- [Definitions](https://github.com/nylas/handbook/blob/master/Introduction/Definitions.md)
+- [Vision, Mission, & Goals](https://github.com/nylas/handbook/blob/master/Introduction/Vission_Mission_Goals.md)
 - [Values](https://github.com/nylas/handbook/blob/master/Introduction/Values.md)
-- [Goals](https://github.com/nylas/handbook/blob/master/Introduction/Goals.md)
 
 ## Employment Policies
 - [At-Will Employment](https://github.com/nylas/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
