@@ -1,6 +1,6 @@
 # Nylas 7 Core Values
 
-values we all hold in common and that guide us in our decisions and actions.
+Values we all hold in common and that guide us in our decisions and actions
 
 ## Customer Obsession
 - We create value for our customers because without our customers our company does not exist.
