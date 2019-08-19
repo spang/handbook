@@ -2,7 +2,7 @@
 
 There are varying levels of “remoteness” that should be treated with increasing levels of care. In general, the more remote you are, the more preparation, forewarning, and effort should be put into it.
 
-Be sure to read our internal guide: [The Art of Working Remotely](https://paper.dropbox.com/doc/The-Art-of-Working-Remotely-70JM1GB49MlgSXsAUejPO]) ([Public Version here](https://www.nylas.com/blog/the-art-of-working-remotely) 
+Be sure to read our internal guide: [The Art of Working Remotely](https://paper.dropbox.com/doc/The-Art-of-Working-Remotely-70JM1GB49MlgSXsAUejPO]) ([Public Version here](https://www.nylas.com/blog/the-art-of-working-remotely))
 
 - Occasional home or coffee shop work:
   - Does not require manager approval.
